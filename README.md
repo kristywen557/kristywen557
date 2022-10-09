@@ -3,7 +3,7 @@
 
 ### About me
 My name is Enes.
-I'm an intermediate backend developer and like to play osu from time to time.
+I'm an intermediate backend developer.
 ### Contact me
 <p align="left">
   <a href="#lock">
