@@ -45,7 +45,13 @@ I'm an intermediate back-end developer. I have nothing else to say ;-;
 <details>
   <summary><b>Tools I Use</b></summary>
   <br>
-      <img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-181c24.svg?&style=for-the-badge&logo=visual-studio-code">
-      <img alt="Intellij" src="https://img.shields.io/badge/Intellij%20Idea-181c24.svg?&style=for-the-badge&logo=intellij-idea">
-      <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-181c24.svg?&style=for-the-badge&logo=aseprite">
+      <a href="https://code.visualstudio.com/">
+        <img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-181c24.svg?&style=for-the-badge&logo=visual-studio-code">
+      </a>
+      <a href="https://www.jetbrains.com/idea/">
+        <img alt="Intellij" src="https://img.shields.io/badge/Intellij%20Idea-181c24.svg?&style=for-the-badge&logo=intellij-idea">
+      </a>
+      <a href="https://www.aseprite.org/">
+        <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-181c24.svg?&style=for-the-badge&logo=aseprite">
+      </a>
 </details>
