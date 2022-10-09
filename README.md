@@ -3,7 +3,7 @@
 
 ### About me
 My name is Enes.
-I'm an intermediate backend developer.
+I'm an intermediate backend developer. I have nothing else to say ;-;
 ### Contact me
 <p align="left">
   <a href="#lock">
