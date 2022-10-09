@@ -52,6 +52,6 @@ I'm an intermediate back-end developer. I have nothing else to say ;-;
         <img alt="Intellij" src="https://img.shields.io/badge/Intellij%20Idea-181c24.svg?&style=for-the-badge&logo=intellij-idea">
       </a>
       <a href="https://www.aseprite.org/">
-        <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-181c24.svg?&style=for-the-badge&logo=aseprite">
+        <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-181c24.svg?&style=for-the-badge&logo=aseprite&logoColor=ffffff">
       </a>
 </details>
