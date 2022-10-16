@@ -35,10 +35,10 @@ I'm an intermediate back-end developer. I have nothing else to say ;-;
   <summary><b>The coding language I'm interested in</b></summary>
    <h3>Front-end</h3>
       <img alt="HTML5" src="https://img.shields.io/badge/HTML5-181c24.svg?&style=for-the-badge&logo=html5">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS3-181c24.svg?&style=for-the-badge&logo=css3">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS3-181c24.svg?&style=for-the-badge&logo=css3&logoColor=2965f1">
       <h3>Back-end</h3>
       <img alt="Node JS" src="https://img.shields.io/badge/Node%20JS-181c24.svg?&style=for-the-badge&logo=node.js">
-      <img alt="Lua" src="https://img.shields.io/badge/Lua-181c24.svg?&style=for-the-badge&logo=lua">
+      <img alt="Lua" src="https://img.shields.io/badge/Lua-181c24.svg?&style=for-the-badge&logo=lua&logoColor=000080">
       <img alt="PHP" src="https://img.shields.io/badge/PHP-181c24.svg?&style=for-the-badge&logo=php">
       <img alt="Java" src="https://img.shields.io/badge/Java-181c24.svg?&style=for-the-badge&logo=java">
 </details>
@@ -46,7 +46,7 @@ I'm an intermediate back-end developer. I have nothing else to say ;-;
   <summary><b>Tools I Use</b></summary>
   <br>
       <a href="https://code.visualstudio.com/">
-        <img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-181c24.svg?&style=for-the-badge&logo=visual-studio-code">
+        <img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-181c24.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=0078d7">
       </a>
       <a href="https://www.jetbrains.com/idea/">
         <img alt="Intellij" src="https://img.shields.io/badge/Intellij%20Idea-181c24.svg?&style=for-the-badge&logo=intellij-idea">
