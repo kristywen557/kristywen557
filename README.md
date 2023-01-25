@@ -19,9 +19,8 @@ I'm an intermediate back-end developer. I have nothing else to say ;-;
 <details>
   <summary><b>Projects I'm working on</b></summary>
    <br>
-  <li>An innovative plugin for Spigot that adds server specific items called ModelOn (<b>Mod</b>ded Min<b>e</b>craft P<b>l</b>ugin "yes i made it up"), 86% Complete.</li>
+  <li>An innovative plugin for Spigot that adds server specific items called ModelOn (<b>Mod</b>ded Min<b>e</b>craft P<b>l</b>ugin "yes i made it up"), Finished.</li>
   <li>Bot called "Guard Manager" used to protect Discord servers, Suspended.</li>
-  <li>An AI algorithm equivalent to human intelligence, Idea.</li>
 </details>
 <details>
   <summary><b>Projects I want to realize in the future</b></summary>
