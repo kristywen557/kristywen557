@@ -26,7 +26,7 @@ I'm an intermediate back-end developer. I have nothing else to say ;-;
   <summary><b>Projects I want to realize in the future</b></summary>
   <br>
   <li>Spigot real-time Node (JS) connection.</li>
-  <li>Plugin and theme manager for Discord. (Legal)</li>
+  <del><i><li>Plugin and theme manager for Discord. (Not allowed)</li></i></del>
   <li>Framework for web-based desktop application.</li>
 </details>
 
