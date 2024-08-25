@@ -2,7 +2,7 @@
 ## Hi there, I'm Kristywen 👋
 
 ### About me
-My name is Enes.
+My name is Kristywen.
 I'm an intermediate back-end developer. I have nothing else to say ;-;
 ### Contact me
 <p align="left">
