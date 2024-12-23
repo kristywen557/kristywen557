@@ -19,8 +19,9 @@ I'm an intermediate back-end developer. I have nothing else to say ;-;
 <details>
   <summary><b>Projects I'm working on</b></summary>
    <br>
-  <li>An innovative plugin for Spigot that adds server specific items called ModelOn (<b>Mod</b>ded Min<b>e</b>craft P<b>l</b>ugin "yes i made up the name"), Finished.</li>
-  <li>Bot called "Guard Manager" used to protect Discord servers, Suspended.</li>
+  <li>A special plugin called Object Finder that allows tracking the location of items on the spigot-based server.</li>
+  <li>A bidding system with enchanted apples as currency for Spigot-based servers</li>
+  <li>a system that logs a particular command used</li>
 </details>
 <details>
   <summary><b>Projects I want to realize in the future</b></summary>
@@ -37,7 +38,6 @@ I'm an intermediate back-end developer. I have nothing else to say ;-;
       <img alt="CSS" src="https://img.shields.io/badge/CSS3-181c24.svg?&style=for-the-badge&logo=css3&logoColor=2965f1">
       <h3>Back-end</h3>
       <img alt="Node JS" src="https://img.shields.io/badge/Node%20JS-181c24.svg?&style=for-the-badge&logo=node.js">
-      <img alt="Lua" src="https://img.shields.io/badge/Lua-181c24.svg?&style=for-the-badge&logo=lua&logoColor=000080">
       <img alt="PHP" src="https://img.shields.io/badge/PHP-181c24.svg?&style=for-the-badge&logo=php">
       <img alt="Java" src="https://img.shields.io/badge/Java-181c24.svg?&style=for-the-badge&logo=java">
 </details>
