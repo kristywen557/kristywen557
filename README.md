@@ -21,7 +21,7 @@ I'm an intermediate back-end developer. I have nothing else to say ;-;
    <br>
   <li>A special plugin called Object Finder that allows tracking the location of items on the spigot-based server.</li>
   <li>A bidding system with enchanted apples as currency for Spigot-based servers</li>
-  <li>a system that logs a particular command used</li>
+  <li>A Plugin that logs a particular command used</li>
 </details>
 <details>
   <summary><b>Projects I want to realize in the future</b></summary>
